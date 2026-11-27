@@ -1,0 +1,7 @@
+# Build outputs
+build/
+*.o
+*.out
+
+# Generated integer files
+*.bin
